@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/fragmentRutas">
+
+    <fragment
+        android:id="@+id/fragmentRutas"
+        android:name="com.example.idnp_lab09.FragmentRutas"
+        android:label="fragment_rutas"
+        tools:layout="@layout/fragment_rutas" />
+    <fragment
+        android:id="@+id/fragmentFavoritos"
+        android:name="com.example.idnp_lab09.FragmentFavoritos"
+        android:label="fragment_favoritos"
+        tools:layout="@layout/fragment_favoritos" />
+</navigation>
