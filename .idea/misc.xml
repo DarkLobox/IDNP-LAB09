@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dante/Documents/GitHub/IDNP-LAB09/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/Dante/Documents/GitHub/IDNP-LAB09/app/src/main/res/layout/fragment_favoritos.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/Dante/Documents/GitHub/IDNP-LAB09/app/src/main/res/layout/fragment_filtro.xml" value="0.33" />
+        <entry key="..\:/Users/Dante/Documents/GitHub/IDNP-LAB09/app/src/main/res/layout/fragment_rutas.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/Dante/Documents/GitHub/IDNP-LAB09/app/src/main/res/layout/list_rutas.xml" value="0.11911231884057971" />
         <entry key="..\:/Users/DarkLobox/AndroidStudioProjects/IDNPLAB09/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
         <entry key="..\:/Users/DarkLobox/AndroidStudioProjects/IDNPLAB09/app/src/main/res/layout/activity_main.xml" value="0.18795289855072464" />
         <entry key="..\:/Users/DarkLobox/AndroidStudioProjects/IDNPLAB09/app/src/main/res/layout/fragment_favoritos.xml" value="0.18795289855072464" />

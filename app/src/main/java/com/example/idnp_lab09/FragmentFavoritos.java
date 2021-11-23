@@ -28,12 +28,7 @@ public class FragmentFavoritos extends Fragment {
         rutas.add(new Ruta("COTUM", "B", "5:00 AM - 9:00 PM"));
         rutas.add(new Ruta("COTUM", "D", "5:00 AM - 9:00 PM"));
 
-        ListAdapter listAdapter = new ListAdapter(rutas, getContext(), new ListAdapter.OnItemClickListener() {
-            @Override
-            public void onItemClick(Ruta item) {
-                //moveToDescription(item);
-            }
-        });
+        ListAdapter listAdapter = new ListAdapter(rutas, getContext());
         recyclerView.setAdapter(listAdapter);
 
         return rootView;
